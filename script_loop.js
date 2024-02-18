@@ -13,3 +13,7 @@ function getComputerChoice() {
     return "Scissor";
   }
 }
+
+function playGame() {
+  
+}
